@@ -1,0 +1,25 @@
+{
+    "name": "@dopustim/stylelint-config",
+    "version": "0.1.0",
+    "description": "Configuration file for StyleLint",
+    "keywords": [
+        "configuration",
+        "config",
+        "json",
+        "validate",
+        "lint",
+        "linter",
+        "stylelint"
+    ],
+    "author": "DopustimVladimir",
+    "license": "ISC",
+    "repository": "https://github.com/dopustim/stylelint-config",
+    "main": "index.js",
+    "scripts": {
+        "test": "jasmine spec/index-spec.js"
+    },
+    "devDependencies": {
+        "stylelint": "^9.8.0",
+        "jasmine": "^3.3.0"
+    }
+}
