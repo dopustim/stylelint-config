@@ -3,7 +3,7 @@
         "at-rule-empty-line-before": ["always", {"severity": "warning"}],
         "at-rule-name-space-after": ["always-single-line", {"severity": "warning"}],
         "at-rule-semicolon-space-before": ["never", {"severity": "warning"}],
-        "block-closing-brace-empty-line-before": ["never", {"except": ["after-closing-brace"], "severity": "warning"}],
+        "block-closing-brace-empty-line-before": ["never", {"severity": "warning"}],
         "block-closing-brace-newline-after": ["always", {"severity": "warning"}],
         "color-hex-case": ["lower", {"severity": "warning"}],
         "color-hex-length": ["short", {"severity": "warning"}],
