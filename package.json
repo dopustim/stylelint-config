@@ -11,9 +11,9 @@
         "test": "jasmine spec/*-spec.js"
     },
     "devDependencies": {
-        "jasmine": "^3.10.0",
-        "stylelint": "^14.1.0",
-        "eslint": "^8.6.0"
+        "jasmine": "^4.0.2",
+        "stylelint": "^14.2.0",
+        "eslint": "^8.7.0"
     },
     "eslintConfig": {
         "extends": "@dopustim/eslint-config",
