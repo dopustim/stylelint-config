@@ -1,7 +1,7 @@
 
-# @dopustim/stylelint-config
+# Stylelint Configuration
 
-Configuration file for StyleLint
+Configuration for Stylelint
 
 [![NPM](https://img.shields.io/npm/dt/@dopustim/stylelint-config?style=flat-square)](https://www.npmjs.com/package/@dopustim/stylelint-config)
 
@@ -14,7 +14,7 @@ Configuration file for StyleLint
 
 ## Usage
 
-Install `@dopustim/stylelint-config` package via [NPM](https://www.npmjs.com/package/@dopustim/stylelint-config):
+Install `stylelint` and `@dopustim/stylelint-config` packages via [NPM](https://www.npmjs.com):
 
 ```sh
 npm install -D stylelint @dopustim/stylelint-config
@@ -49,4 +49,4 @@ You can also reassign any rule for your needs:
 
 ## About
 
-Visit the [StyleLint website](https://stylelint.io) to find out all rules and descriptions.
+Visit the [Stylelint website](https://stylelint.io) to find out all rules and descriptions.
